@@ -1,0 +1,6 @@
+<resources>
+    <resources>
+        <string name="app_name">Tutorial 01</string>
+        <string name="lbl_txt">Welcome to RKU</string>
+    </resources>
+</resources>
